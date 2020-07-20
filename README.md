@@ -2,6 +2,12 @@
 
 How to make your computer emulate a computer.
 
+[You can read this on Medium here.](https://medium.com/p/8314fd6077d7/edit)
+
+<img src="cover.jpg" alt="drawing" width="400"/>
+
+Image by Hans Johnson - source and license.
+
 While you may not have access to a physical Turing machine, that should'nt stop you from simulating a Turing machine with… your computer! I will cover how Turing machines function, and Python code to build a simple one to test for alleged palindromes. I know that programs that check for palindromes are common exercise for programming beginners, and that you could simply check online or even copy some code in your favorite language. However, let's pretend that deep down you would really like to use a Turing machine for the task.
 
 This article is inspired by Chapter 5 of Perspectives in Computation by Robert Geroch - [Amazon](https://medium.com/r/?url=http%3A%2F%2Fwww.amazon.com%2FPerspectives-Computation-Chicago-Lectures-Physics%2Fdp%2F0226288552%2Fref%3Dsr_1_11%3Fie%3DUTF8%26qid%3D1388452996%26sr%3D8-11%26keywords%3Drobert%2Bgeroch).
